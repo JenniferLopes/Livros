@@ -13,6 +13,7 @@ Lista de Livros
 ![2ed](https://github.com/JenniferLopes/Livros/assets/67852083/4cee3fb7-a1a9-418d-bec0-7533386b0839)
 
 -R Without Statistics- David Keyes - https://book.rwithoutstatistics.com/index.html
+
 ![r sem estatística](https://github.com/JenniferLopes/Livros/assets/67852083/336f2b74-f95d-4000-ad17-278b48ecffc6)
 
 
