@@ -9,8 +9,7 @@ Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros
 
 Lista de Livros
 
-- [R FOR DATA SCIENCE 2ed]([link_para_o_livro1](https://github.com/JenniferLopes/Livros/assets/67852083/55c4967b-90ad-4544-aa95-c8192bdae864))
-
+- [R FOR DATA SCIENCE 2ed] https://r4ds.hadley.nz/#acknowledgements
 
 
 Obrigada!!! Estude bastante!
