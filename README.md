@@ -9,7 +9,13 @@ Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros
 
 Lista de Livros
 
-- [R FOR DATA SCIENCE 2ed] https://r4ds.hadley.nz/#acknowledgements
+- R FOR DATA SCIENCE 2ed- Hadley Wickham-  https://r4ds.hadley.nz/#acknowledgements
+![2ed](https://github.com/JenniferLopes/Livros/assets/67852083/4cee3fb7-a1a9-418d-bec0-7533386b0839)
+
+-R Without Statistics- David Keyes - https://book.rwithoutstatistics.com/index.html
+![r sem estatística](https://github.com/JenniferLopes/Livros/assets/67852083/336f2b74-f95d-4000-ad17-278b48ecffc6)
+
+
 
 
 Obrigada!!! Estude bastante!
