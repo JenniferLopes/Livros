@@ -7,27 +7,31 @@ Como Funciona?
 
 Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros. Se você tiver alguma recomendação ou desejar compartilhar um livro que não está na lista, fique à vontade para criar um **"Pull Request"** ou abrir uma "Issue". Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 
-# Lista de Livros
+| # Lista de Livros                | Autor        | Link                                   |
+|----------------------------------|--------------|----------------------------------------|
 
-**1-** R FOR DATA SCIENCE 2ed- Hadley Wickham | https://r4ds.hadley.nz/#acknowledgements
+**1-** **R FOR DATA SCIENCE 2ed-** Hadley Wickham | https://r4ds.hadley.nz/#acknowledgements
 
-**2-** R Without Statistics- David Keyes | https://book.rwithoutstatistics.com/index.html
+**2-** **R Without Statistics-** David Keyes | https://book.rwithoutstatistics.com/index.html
 
-**3-** Data Visualization- A practical introduction- Kieran Healy | https://socviz.co/index.html#preface
+**3-** **Data Visualization- A practical introduction-** Kieran Healy | https://socviz.co/index.html#preface
 
-**4-** Hands-On Programming with R- Garrett Grolemund | https://rstudio-education.github.io/hopr/
+**4-** **Hands-On Programming with R-** Garrett Grolemund | https://rstudio-education.github.io/hopr/
 
-**5-** The Tidyverse Cookbook- Garrett Grolemund | https://rstudio-education.github.io/tidyverse-cookbook/
+**5-** **The Tidyverse Cookbook-** Garrett Grolemund | https://rstudio-education.github.io/tidyverse-cookbook/
 
-**6-** Yet Again: R + Data Science- Albert Rapp | https://yards.albert-rapp.de/
+**6-** **Yet Again: R + Data Science-** Albert Rapp | https://yards.albert-rapp.de/
 
-**7-** Introduction to Data Science- Rafael A. Irizarry | https://rafalab.dfci.harvard.edu/dsbook/
+**7-** **Introduction to Data Science-** Rafael A. Irizarry | https://rafalab.dfci.harvard.edu/dsbook/
 
-**8-** ggplot2: Elegant Graphics for Data Analysis (3e)-  Hadley Wickham | https://ggplot2-book.org/
+**8-** **ggplot2: Elegant Graphics for Data Analysis (3e)-**  Hadley Wickham | https://ggplot2-book.org/
 
-**9-** R Graphics Cookbook, 2nd edition- Winston Chang | https://r-graphics.org/
+**9-** **R Graphics Cookbook, 2nd edition-** Winston Chang | https://r-graphics.org/
 
+# Português
+**1-** **Ciência de Dados em R-** Curso-R | https://livro.curso-r.com/index.html
 
-### Mixed Models with R- Michael Clark| https://m-clark.github.io/mixed-models-with-R/
+# Modelos mistos
+**1-** **Mixed Models with R-** Michael Clark| https://m-clark.github.io/mixed-models-with-R/
 
 
