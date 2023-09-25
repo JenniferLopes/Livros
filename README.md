@@ -28,6 +28,7 @@ Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 | Manual de Planejamento e Análise de Experimentos com R | Walmes Marques Zeviani | [Link](http://leg.ufpr.br/~walmes/mpaer/index.html)             |
 | Bioestatística Básica                                  | Sergio Freire          | [Link](Link)                                                    |
 | Zen do R                                               | Curso-r                | [Link](https://curso-r.github.io/zen-do-r/index.html)           |
+| Mixed Models for Agriculture in R                      | SchmidtPaul            | [Link] (https://schmidtpaul.github.io/MMFAIR/index.html)        |
 |                                                        |                        |                                                                 |
 
 
