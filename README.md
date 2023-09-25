@@ -7,6 +7,7 @@ Como Funciona?
 
 Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros. Se você tiver alguma recomendação ou desejar compartilhar um livro que não está na lista, fique à vontade para criar um **"Pull Request"** ou abrir uma "Issue". Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 
+
 | **Nome do livro 📚**                                   | Autor                  | Repositório 🔎                                                  |
 |-------------------------------|----------------------|------------------|
 | R FOR DATA SCIENCE 2ed                                 | Hadley Wickham         | [Link](https://r4ds.hadley.nz/#acknowledgements)                |
@@ -21,10 +22,9 @@ Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros
 | Ciência de Dados em R                                  | Curso-R                | [Link](https://livro.curso-r.com/index.html)                    |
 | Mixed Models with R                                    | Michael Clark          | [Link](https://livro.curso-r.com/index.html)                    |
 | Manual de Planejamento e Análise de Experimentos com R | Walmes Marques Zeviani | [Link](http://leg.ufpr.br/~walmes/mpaer/index.html)             |
-|                                                        |                  
-
-
-
+|                                                        |                        |                                                                 |
+|                                                        |                        |                                                                 |
+|                                                        |                        |                                                                 |
 
 
 
