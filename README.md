@@ -28,6 +28,6 @@ Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros
 **9-** R Graphics Cookbook, 2nd edition- Winston Chang | https://r-graphics.org/
 
 
-## Mixed Models with R- Michael Clark| https://m-clark.github.io/mixed-models-with-R/
+### Mixed Models with R- Michael Clark| https://m-clark.github.io/mixed-models-with-R/
 
 
