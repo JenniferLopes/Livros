@@ -17,6 +17,11 @@ Lista de Livros
 
 ![r sem estatística](https://github.com/JenniferLopes/Livros/assets/67852083/336f2b74-f95d-4000-ad17-278b48ecffc6)
 
+3- Data Visualization- A practical introduction- Kieran Healy- https://socviz.co/index.html#preface
+
+![Data Visualization](https://socviz.co/assets/dv-cover-pupress.jpg)
+
+
 
 
 
