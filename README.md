@@ -30,6 +30,7 @@ Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 | Zen do R                                               | Curso-r                | [Link](https://curso-r.github.io/zen-do-r/index.html)           |
 | Mixed Models for Agriculture in R                      | Schmidt Paul           | [Link](https://schmidtpaul.github.io/MMFAIR/index.html)         |
 | Data Science for Agriculture in R                      | Schmidt Paul           | [Link](https://schmidtpaul.github.io/DSFAIR/index.html)         |
+| Metodologia sperimentale per le scienze agrarie        |Andrea Onofri e Dario Sacco| [Link](https://www.statforbiology.com/_statbook/)            |
 |                                                        |                        |                                                                 |
 
 
