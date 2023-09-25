@@ -7,13 +7,12 @@ Como Funciona?
 
 Navegue pela lista abaixo e clique nos títulos para acessar os links dos livros. Se você tiver alguma recomendação ou desejar compartilhar um livro que não está na lista, fique à vontade para criar um **"Pull Request"** ou abrir uma "Issue". Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 
-| # Lista de Livros                | Autor        | Link                                   |
-|----------------------------------|--------------|----------------------------------------|
+| # Lista de Livros                             | Autor                      | Link                                          |
+|-----------------------------------------------|----------------------------|-----------------------------------------------|
+| **1-** **R FOR DATA SCIENCE 2ed-**            | Hadley Wickham             | https://r4ds.hadley.nz/#acknowledgements      |
+| **2-** **R Without Statistics-** | David Keyes | https://book.rwithoutstatistics.com/index.html                           ||
 
-| **1-** **R FOR DATA SCIENCE 2ed-** | Hadley Wickham | https://r4ds.hadley.nz/#acknowledgements |
-|
 
-**2-** **R Without Statistics-** | David Keyes | https://book.rwithoutstatistics.com/index.html|
 
 **3-** **Data Visualization- A practical introduction-** Kieran Healy | https://socviz.co/index.html#preface
 
