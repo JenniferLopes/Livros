@@ -13,7 +13,7 @@ Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 
 
 | **Nome do livro 📚**                                   | Autor                  | Repositório 🔎                                                  |
-|-------------------------------|----------------------|------------------|
+|-------------------------------|-----------------------|-------------------|
 | R FOR DATA SCIENCE 2ed                                 | Hadley Wickham         | [Link](https://r4ds.hadley.nz/#acknowledgements)                |
 | R Without Statistics                                   | David Keyes            | [Link](https://book.rwithoutstatistics.com/index.html)          |
 | Hands-On Programming with R                            | Garrett Grolemund      | [Link](https://rstudio-education.github.io/hopr/)               |
@@ -22,12 +22,12 @@ Adoro aprender com a comunidade e estou sempre em busca de novas bibliografias.
 | Introduction to Data Science                           | Rafael A. Irizarry     | [Link](https://rafalab.dfci.harvard.edu/dsbook/)                |
 | Data Visualization- A practical introduction           | Kieran Healy           | [Link](https://socviz.co/index.html#preface)                    |
 | ggplot2: Elegant Graphics for Data Analysis (3e)       | Hadley Wickham         | [Link](https://ggplot2-book.org/)                               |
-| R Graphics Cookbook, 2nd edition                       |  Winston Chang         | [Link](https://r-graphics.org/)                                 |
+| R Graphics Cookbook, 2nd edition                       | Winston Chang          | [Link](https://r-graphics.org/)                                 |
 | Ciência de Dados em R                                  | Curso-R                | [Link](https://livro.curso-r.com/index.html)                    |
 | Mixed Models with R                                    | Michael Clark          | [Link](https://livro.curso-r.com/index.html)                    |
 | Manual de Planejamento e Análise de Experimentos com R | Walmes Marques Zeviani | [Link](http://leg.ufpr.br/~walmes/mpaer/index.html)             |
-|                                                        |                        |                                                                 |
-|                                                        |                        |                                                                 |
+| Bioestatística Básica                                  | Sergio Freire          | [Link](Link)                                                    |
+| Zen do R                                               | Curso-r                | [Link](https://curso-r.github.io/zen-do-r/index.html)           |
 |                                                        |                        |                                                                 |
 
 
