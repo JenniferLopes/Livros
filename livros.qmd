@@ -1,0 +1,214 @@
+---
+title: "Jennifer Lopes"
+toc: true # Adiciona um índice no relatório
+format: 
+    html: 
+      css: ["styles.css"] # Customização com css
+      toc: true
+      embed-resources: true
+      code-fold: false # code-fold: true para "ocultar" o bloco de códigos
+      code-tools: true  #code-tools: true para ativar ferramentas de interação com os códigos
+  #    number-sections: true # Número de seções/subseções
+title-block-banner: "#6b44e8" # Pode ser 'true', uma cor ou imagem
+code-annotations: hover # Para anotações em códigos
+---
+
+# 📚 Livros
+
+**Última atualização: 22/08/2025**
+
+## Sumário
+
+📘Machine Learning
+
+📘 Deep Learning
+
+📘 LLMs, RAG e IA Generativa
+
+📘 Estatística
+
+📘 Programação em R
+
+## 📘 Machine Learning
+
+![](images/clipboard-2482400552.png){width="290"}
+
+| N° | Título | Link |
+|------------------|-------------------------------|------------------------|
+| 1 | Aprendizado de Máquina: Uma Abordagem Estatística – Izbicki & Santos | \[Link\] |
+| 2 | Inteligência Artificial e Aprendizagem de Máquina – Oscar Gabriel Filho | \[Link\] |
+| 3 | Introdução ao Aprendizado de Máquina para Análise de Sobrevivência – Ara et al. | \[Link\] |
+| 4 | Uma Introdução à Machine Learning – David Menotti (UFPR) | \[Link\] |
+| 5 | A Course in Machine Learning – Hal Daumé III | \[Link\] |
+| 6 | Mathematics for Machine Learning – Beginners – Mueller & Massaron | \[Link\] |
+| 7 | ML Cheatsheet for Beginners – Jupyter Compilation | \[Link\] |
+| 8 | Decision Tree Regressor Basics – Nikita Prasad | \[Link\] |
+| 9 | Tutorials on Machine Learning & Deep Learning – Compilação técnica | \[Link\] |
+| 10 | Algorithmic Mathematics in Machine Learning – Bohn, Garcke, Griebel | \[Link\] |
+| 11 | Engineering MLOps – Emmanuel Raj | \[Link\] |
+| 12 | Interpretable Machine Learning with Python – Serg Masís | \[Link\] |
+| 13 | Machine Learning Applications: From Computer Vision to Robotics – Chatterjee & Zalte (Eds.) | \[Link\] |
+| 14 | Machine Learning Using R – Brett Lantz | \[Link\] |
+| 15 | A Minimal rTorch Book | <https://f0nzie.github.io/rtorch-minimal-book/> |
+| 16 | Applied Machine Learning for Tabular Data | <https://aml4td.org/> |
+| 17 | Applied Machine Learning Using mlr3 in R | <https://mlr3book.mlr-org.com/> |
+| 18 | Behavior Analysis with Machine Learning Using R | <https://enriquegit.github.io/behavior-free/index.html#> |
+| 19 | Data Science: Theories, Models, Algorithms, and Analytics | <https://srdas.github.io/MLBook/> |
+| 20 | Deep Learning and Scientific Computing with R torch | <https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/> |
+| 21 | Efficient Machine Learning with R: Low-Compute Predictive Modeling with tidymodels | <https://emlwr.org/> |
+| 22 | Explanatory Model Analysis | <https://pbiecek.github.io/ema/> |
+| 23 | Feature Engineering A-Z | <https://feaz-book.com/> |
+| 24 | Feature Engineering and Selection: A Practical Approach for Predictive Models | <http://www.feat.engineering/index.html> |
+| 25 | Hands-On Machine Learning with R | <https://bradleyboehmke.github.io/HOML/> |
+| 26 | Interpretable Machine Learning | <https://leanpub.com/interpretable-machine-learning> |
+| 27 | Lightweight Machine Learning Classics with R | <https://lmlcr.gagolewski.com/> |
+| 28 | Machine Learning-based Causal Inference Tutorial | <https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/> |
+| 29 | Machine Learning for Factor Investing | <http://www.mlfactor.com/> |
+| 30 | Mathematics and Programming for Machine Learning with R: From the Ground Up | <https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y> |
+| 31 | Model-Based Clustering, Classification and Density Estimation Using mclust in R | <https://mclust-org.github.io/mclust-book/> |
+| 32 | Neural Cryptography Using Keras in R | <https://www.statswithr.com/neural-cryptography-using-keras-in-r> |
+| 33 | Neural Networks with Keras in R: A QuickStart Guide | <https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-guide> |
+| 34 | sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series | <https://e-sensing.github.io/sitsbook/> |
+| 35 | Supervised Machine Learning for Text Analysis in R | <https://smltar.com/> |
+| 36 | Surrogates – Gaussian Process Modeling, Design and Optimization for the Applied Sciences | <https://bookdown.org/rbg/surrogates/> |
+| 37 | The caret Package | <https://topepo.github.io/caret/index.html> |
+| 38 | The Hitchhiker’s Guide to Responsible Machine Learning | <https://betaandbit.github.io/RML/> |
+| 39 | Tidy Modeling with R | <https://www.tmwr.org/> |
+
+## 📘 Deep Learning
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Deep Learning for the Life Sciences – Ramsundar, Eastman, Walters, Pande | \[Link\] |
+| 2 | Time Series Analysis & Machine Learning for Predictive Modeling – Rathod et al. | \[Link\] |
+| 3 | Tutorials on Machine Learning & Deep Learning – Compilação técnica | \[Link\] |
+
+## 📘 LLMs, RAG e IA Generativa
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Unlocking Data with Generative AI and RAG – Keith Bourne | \[Link\] |
+| 2 | Building LLMs for Production – Sinan Ozdemir | \[Link\] |
+| 3 | Mastering LLM Applications with LangChain and Hugging Face – Eric Sarrion, Julien Simon | \[Link\] |
+| 4 | Generative AI for Cloud Solutions Architect – Maddie Schieferstein | \[Link\] |
+
+## 📘 Estatística
+
+### 🔹 Fundamentos e Introduções
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | An Introduction to Statistical and Data Sciences via R | <https://moderndive.com/> |
+| 2 | An Introduction to Statistical Learning | <https://www.statlearning.com/> |
+| 3 | Introduction to Modern Statistics | <https://openintro-ims.netlify.app/> |
+| 4 | OpenIntro Statistics | <https://leanpub.com/openintro-statistics> |
+| 5 | Statistics (The Easier Way) With R, 3rd Ed. | <https://amzn.to/3b9ha8s> |
+| 6 | Statistics and Data with R | <https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052> |
+| 7 | Answering questions with data | <https://crumplab.github.io/statistics/> |
+
+### 🔹 Bayes e Probabilidade
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Bayes rules! | <https://www.bayesrulesbook.com/> |
+| 2 | An Introduction to Bayesian Data Analysis for Cognitive Science | <https://vasishth.github.io/bayescogsci/book/> |
+| 3 | An Introduction to Bayesian Reasoning and Methods | <https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/> |
+| 4 | Doing Bayesian Data Analysis in brms and the tidyverse | <https://bookdown.org/content/3686/> |
+| 5 | Bayesian analysis of capture-recapture data | <https://oliviergimenez.github.io/banana-book/index.html> |
+| 6 | Introduction to Empirical Bayes | <https://drob.gumroad.com/l/empirical-bayes> |
+| 7 | Probability and Bayesian Modeling | <https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html> |
+| 8 | Statistical Rethinking | <https://xcelab.net/rm/statistical-rethinking/> |
+| 9 | Statistical Rethinking with brms, ggplot2, and the tidyverse | <https://bookdown.org/content/4857/> |
+| 10 | Using R for Bayesian Spatial and Spatio-Temporal Health Modeling | <https://www.routledge.com/>... |
+
+### 🔹 Regressão e GLM
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Advanced Regression Methods – Companion to BER642 | <https://bookdown.org/chua/ber642_advanced_regression/> |
+| 2 | Analysing Data using Linear Models | <https://bookdown.org/pingapang9/linear_models_bookdown/> |
+| 3 | Beyond Multiple Linear Regression | <https://bookdown.org/roback/bookdown-BeyondMLR/> |
+| 4 | Flexible Regression Models | <https://discdown.org/flexregression/> |
+| 5 | Handbook of Regression Modeling in People Analytics | <http://peopleanalytics-regression-book.org/index.html> |
+| 6 | Introduction to Regression Analysis in R | <https://www.kellerbiostat.com/introregression/> |
+| 7 | Regression and Other Stories | <https://avehtari.github.io/ROS-Examples/> |
+| 8 | The Hitchhiker’s Guide to Linear Models | <https://leanpub.com/linear-models-guide> |
+
+### 🔹 Inferência
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Common statistical tests are linear models | <https://steverxd.github.io/Stat_tests/> |
+| 2 | Statistical inference for data science | <https://leanpub.com/LittleInferenceBook> |
+| 3 | Foundations of Statistics with R | <https://mathstat.slu.edu/~speegle/_book/preface.html> |
+| 4 | Statistical Thinking in the 21st Century | <https://statsthinking21.github.io/statsthinking21-core-site/> |
+
+### 🔹 Longitudinal e Mistos
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Applied longitudinal data analysis in brms and the tidyverse | <https://bookdown.org/content/4253/> |
+| 2 | Mixed Models with R | <https://m-clark.github.io/mixed-models-with-R/> |
+
+### 🔹 Meta-análise e Poder
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Doing meta-analysis with R | <https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/> |
+| 2 | Power Analysis with Superpower | <https://aaroncaldwell.us/SuperpowerBook/index.html> |
+| 3 | Introduction to Mediation, Moderation, and Conditional Process Analysis | <https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/> |
+
+### 🔹 Causalidade
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Causal Inference in R | <https://www.r-causal.org> |
+| 2 | Causal Inference: The Mixtape | <https://mixtape.scunning.com/> |
+| 3 | The Effect: An Introduction to Research Design and Causality | <https://theeffectbook.net/> |
+
+### 🔹 Séries Temporais e Multivariada
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | A Little Book of R for Time Series | <https://a-little-book-of-r-for-time-series.readthedocs.io> |
+| 2 | A Little Book of R for Multivariate Analysis | <https://little-book-of-r-for-multivariate-analysis.readthedocs.io> |
+
+### 🔹 Didáticos e Catálogos
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | End-to-End Solved Problems With R | <https://amzn.to/2EREAn2> |
+| 2 | Model Estimation by Example | <https://m-clark.github.io/models-by-example/> |
+| 3 | Library of Statistical Techniques | <https://lost-stats.github.io/> |
+| 4 | ISLR tidymodels Labs | <https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html> |
+| 5 | Marginal Effects Zoo | <https://marginaleffects.com> |
+| 6 | Teacups, Giraffes and Statistics | <https://tinystats.github.io/teacups-giraffes-and-statistics/index.html> |
+| 7 | The Saga of PLS | <https://sagaofpls.github.io> |
+| 8 | Translating Stata to R | <https://stata2r.github.io/> |
+
+### 🔹 Áreas Aplicadas
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | Building energy statistical modelling | <https://buildingenergygeeks.org/index.html> |
+| 2 | Modern Statistical Methods for Astronomy | <https://www.cambridge.org/>... |
+| 3 | Spatio-Temporal Statistics with R | <https://spacetimewithr.org/> |
+| 4 | Surrogates – Gaussian process modeling | <https://bookdown.org/rbg/surrogates/> |
+| 5 | Partial Least Squares Structural Equation Modeling (PLS-SEM) | <https://link.springer.com/book/10.1007/978-3-030-80519-7> |
+| 6 | The Grammar of Experimental Designs | <https://emitanaka.org/edibble-book/index.html> |
+| 7 | One Way ANOVA with R | <https://bcdudek.net/anova/oneway_anova_basics.pdf> |
+| 8 | Data Analytics | <https://discdown.org/dataanalytics/> |
+| 9 | R for Data Analytics | <https://rforanalytics.com/> |
+| 10 | A Business Analyst’s Introduction to Business Analytics | <https://www.causact.com/> |
+
+## 📘 Programação em R
+
+| Nº | Título | Link |
+|------------------------|------------------------|------------------------|
+| 1 | R para Ciência de Dados (2ª edição) – Português | \[Link\] |
+| 2 | Ciência de Dados em R – Cursos R | \[Link\] |
+| 3 | Introdução à Linguagem R: seus fundamentos e sua prática – Pedro Duarte Faria | \[Link\] |
+| 4 | Statistical Inference via Data Science – Ismay & Kim | \[Link\] |
+| 5 | ggplot2: Elegant Graphics for Data Science – Hadley Wickham | \[Link\] |
+| 6 | R for Data Science (1ª ed): Exercise Solutions – Jeffrey B. Arnold | \[Link\] |
+| 7 | Data Manipulation in R – Steph Locke | \[Link\] |
