@@ -217,4 +217,4 @@ Aqui você encontra uma curadoria de livros clássicos, modernos, práticos e te
 | 13 | Introdução ao Deep Learning com TensorFlow | [Link](https://www.alura.com.br/artigos/introducao-deep-learning-tensorflow) |
 | 14 | Reinforcement Learning: Conceitos e Aplicações | [Link](https://www.alura.com.br/artigos/reinforcement-learning-conceitos-aplicacoes) |
 
-: Fonte: [Alura artigos](https://www.alura.com.br/busca?query=machine+learning&typeFilters=ARTICLE)
+Fonte: [Alura artigos](https://www.alura.com.br/busca?query=machine+learning&typeFilters=ARTICLE)
