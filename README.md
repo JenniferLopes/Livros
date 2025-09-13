@@ -1,4 +1,4 @@
-# 📚 Livros - Biblioteca Aberta de Estatística | Experimentação Agrícola | Machine Learning | Ciência de dados| Programação em R
+# Livros - Biblioteca Aberta de Estatística | Experimentação Agrícola | Machine Learning | Ciência de dados| Programação em R
 
 Bem-vindo ao repositório de livros que todo cientista de dados, analista ou pesquisador deveria conhecer!
 
